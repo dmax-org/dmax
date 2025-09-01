@@ -1,21 +1,19 @@
-MIT License
+Business Source License 1.1
 
-Copyright (c) 2025 D-Max
+Parameters
+Licensor:        [Your Name or Organization]
+Licensed Work:   [Project Name or short description]
+Additional Use Grant: You may make non-production use of the Licensed Work.
+Change Date:     2029-01-01 (4 years from today, or pick another date)
+Change License:  Apache License, Version 2.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Terms
+The Licensed Work is subject to the Business Source License 1.1 (the "License").
+The License permits you to use the Licensed Work under the conditions stated
+in the License. You may not use the Licensed Work except in compliance with
+the License. A copy of the License is available at:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+https://mariadb.com/bsl11
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Unless required by applicable law or agreed to in writing, the Licensed Work
+is provided "as is", without warranties or conditions of any kind.
